@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b355379cb5750edf9a86bf124a97e17",
+    "revision": "69c9d6ee6e99bd7fd9be1fea2be9864b",
     "url": "/opreaweb/index.html"
   },
   {
-    "revision": "0183942e5be35b5f6299",
+    "revision": "584992e97554e90fe620",
     "url": "/opreaweb/static/css/2.559fd73f.chunk.css"
   },
   {
-    "revision": "94cbadbdb78228941794",
-    "url": "/opreaweb/static/css/main.f20be842.chunk.css"
+    "revision": "4ed7db135da4713f9d4d",
+    "url": "/opreaweb/static/css/main.f30ffa0b.chunk.css"
   },
   {
-    "revision": "0183942e5be35b5f6299",
-    "url": "/opreaweb/static/js/2.527ea853.chunk.js"
+    "revision": "584992e97554e90fe620",
+    "url": "/opreaweb/static/js/2.27d8c757.chunk.js"
   },
   {
-    "revision": "eff37a317864acf53b3f487454b20ab3",
-    "url": "/opreaweb/static/js/2.527ea853.chunk.js.LICENSE"
+    "revision": "c7abd4a823ee85afac2f05677368b7de",
+    "url": "/opreaweb/static/js/2.27d8c757.chunk.js.LICENSE"
   },
   {
-    "revision": "94cbadbdb78228941794",
-    "url": "/opreaweb/static/js/main.7d00ee2c.chunk.js"
+    "revision": "4ed7db135da4713f9d4d",
+    "url": "/opreaweb/static/js/main.34a088d3.chunk.js"
   },
   {
     "revision": "fcf0617338b75bf4c572",
